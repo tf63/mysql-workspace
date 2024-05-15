@@ -1,0 +1,6 @@
+# my
+out/
+.DS_Store
+migrations/
+.env
+.pnpm-store/
